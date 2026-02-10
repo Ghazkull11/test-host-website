@@ -1,4 +1,4 @@
-<script>
+
     // Your existing code...
     
     // Add new JavaScript here
@@ -8,4 +8,3 @@
     window.addEventListener('load', () => {
         console.log('Website loaded successfully!');
     });
-</script>
